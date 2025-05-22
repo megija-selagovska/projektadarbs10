@@ -1,0 +1,6 @@
+@media (max-width: 768px){
+    #left-content, #center-content, #right-content {
+        width: 100%;
+        float: none;
+    }
+}
